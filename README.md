@@ -1,9 +1,15 @@
 # MinecraftPE-Utils
 
-**Current Version: 0beta (unreleased)
+**Current Version**: Unreleased
 
+# What is MinecraftPE-Utils?
 
-This is a Utility tool that utilizes apple shortcuts
+MinecraftPE-Utils is a Utility tool that utilizes 
+apple shortcuts, to allow users to have a relaxing time
+with that small screen
+
+**DISCLAIMER**:
+
 **If you use the files that include resource packs that
 are considered "hacks" we are NOT responsible for your
 actions with said resource packs**
@@ -13,7 +19,8 @@ the resource "hacks", install from the "safe" folder**
 
 
 
-**Changelog:**
+# Changelog:
+
 + means added
 - means removed
 
