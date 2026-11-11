@@ -9,6 +9,17 @@ requires a quick setup:
 
 **You MUST have the shortcut downloaded first!**
 
+# IMPORTANT:
+MAKE SURE YOU GO INTO "ASSISTIVE TOUCH DISABLER" 
+AND ENABLE THE AUTOMATION
+Or the menu will stay on when you exit
+
+ALSO:
+
+ADDING THE LAUNCHER TO YOUR HOMESCREEN LETS YOU QUICKLY RUN 
+MCPE WITH THE MENU ALREADY READY!
+
+
 **Steps**:
 Open Settings on your iPhone,
 Go to "Accessibility", look for "touch",
