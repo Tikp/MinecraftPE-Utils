@@ -1,6 +1,6 @@
 # MinecraftPE-Utils
 
-**Current Version**: Unreleased
+**Current Version**: 0.1 (Beta 0)
 
 # What is MinecraftPE-Utils?
 
@@ -22,6 +22,5 @@ I can't force you not to, if you have any ideas for implementations, let me know
 
 # How often are updates?
 Updates can happen whenever, at the time of writing, 
-I have finished 0.1 (Beta0) and I have to fix a few issues with
-the installer shorcut, and I have my plans for 0.2 (Beta1) Ready
-
+I have finished 0.1 (Beta0). (11/11/26)
+I'm going to start 0.2 (beta1) later on today
