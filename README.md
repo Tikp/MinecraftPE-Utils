@@ -18,5 +18,10 @@ No, The only apps you need are:
 - Shortcuts
 
 # Should I edit the code?
-I can't force you not to, if you have any ideas for implementations
-let me know, mention me in
+I can't force you not to, if you have any ideas for implementations, let me know!
+
+# How often are updates?
+Updates can happen whenever, at the time of writing, 
+I have finished 0.1 (Beta0) and I have to fix a few issues with
+the installer shorcut, and I have my plans for 0.2 (Beta1) Ready
+
